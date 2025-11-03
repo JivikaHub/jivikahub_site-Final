@@ -53,7 +53,7 @@ body{
   display:inline-block;
   background-color:transparent;
   /* Embedded SVG gradient Instagram-like icon (works without an external file) */
-  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'><radialGradient id='g' cx='0.5' cy='0.5' r='0.5'><stop offset='0' stop-color='%23f09433'/><stop offset='.5' stop-color='%23e6683c'/><stop offset='1' stop-color='%238a3ab9'/></radialGradient><rect width='24' height='24' rx='5' fill='url(%23g)'/><path d='M12 7a5 5 0 1 0 0 10 5 5 0 0 0 0-10z' fill='%23fff'/><circle cx='18' cy='6' r='1.2' fill='%23fff'/></svg>");
+  background-image: url('images/Instagram_icon.png.webp');
   background-size:cover;
   background-position:center;
   background-repeat:no-repeat;
